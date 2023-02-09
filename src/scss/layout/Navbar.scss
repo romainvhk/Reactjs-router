@@ -1,0 +1,17 @@
+.navbar {
+    .navbar__list {
+        display: flex;
+        justify-content: flex-end;
+        gap: 20px;
+    }
+    
+    li {
+        list-style: none;
+    }
+    
+    .link {
+        text-decoration: none;
+        color: violet;
+    }
+    
+}
